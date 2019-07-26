@@ -1,0 +1,63 @@
+body {
+  padding-top: 80px;
+  word-wrap: break-word;
+  background: #9A7D0A;
+  color: #fff;
+  font-family: 'Cuprum', sans-serif;
+}
+
+.well {
+  color: black;
+  background: rgba(229, 229, 229, 0.1);
+}
+
+li{
+  list-style:none;
+}
+
+img {
+  height: 600px;
+}
+
+.album{
+  width: 25%;
+  height:300px;
+  border-radius: 15%;
+  float:left;
+}
+
+.row {
+  float:left;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Cuprum', sans-serif;
+}
+
+h3, p {
+  color: white;
+}
+
+input {
+  width: 30%;
+  height: 30px;
+}
+
+iframe {
+  margin-left: .2%;
+  width: 100%;
+}
+
+.btn-default {
+  background: #9A7D0A;
+  color: white;
+}
+
+.jumbotron {
+  background: rgba(229, 229, 229, 0.2);
+}
